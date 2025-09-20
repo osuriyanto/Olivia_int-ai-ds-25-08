@@ -1,0 +1,13 @@
+id,first,email,birthday
+1,Rho,blablabla,25-Dec
+2,Rho,blablabla,Jan-01
+3,Alpha,news@hotmail.com,25-Dec
+4,Rho,email@gmail.com,12/04
+5,Alpha,idk@yahoo,12/04
+6,Beta,blablabla,25-Dec
+7,Alpha,email@gmail.com,Jan-01
+8,Beta,news@hotmail.com,12/04
+9,Miu,blablabla,25-Dec
+A,Beta,news@hotmail.com,Jan-01
+B,,idk@yahoo,25-Dec
+D,Alpha,idk@yahoo,12/04
